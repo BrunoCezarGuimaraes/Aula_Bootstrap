@@ -23,7 +23,15 @@ body {
     margin: 15px 0 15px;
 }
 
-/* Parceiros*/
+/*Parceiros*/
 .parceiros {
     background-color: #AED6F1;
+}
+
+/*Footer*/
+.bg-footer {
+    background-color: #48C9B0;
+    color: white;
+
+    padding: 15px;
 }
